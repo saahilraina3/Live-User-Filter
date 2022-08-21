@@ -1,3 +1,3 @@
 # Live User Filter
 
-This JS Proect help to use Search filter for live users 
+This proect built with HTML5/CSS/JavaScript help to use Search filter for live users 
